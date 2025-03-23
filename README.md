@@ -1,2 +1,2 @@
 # OpenCV-Bootcamp
-This Repository Contains the Practical Notebooks of OpenCV Fundamentals
+This Repository Contains the Practical Notebooks of the OpenCV BootCamp by OpenCV University
